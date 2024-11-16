@@ -1,7 +1,10 @@
 # Jornada Milhas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+
 [SASS](https://sass-lang.com/guide/#:~:text=With%20that%20in%20mind%2C%20here%27s%20an%20example%20of%20some%20typical%20styles%20for%20a%C2%A0site%27s%20navigation%3A)
+
+[Figma](https://www.figma.com/design/PnbYDKjKLouCOAwY4GRxYv/Jornada-Milhas?node-id=0-1&node-type=canvas&t=GH2rGOxUenYLRlEC-0)
 
 ## Development server
 
