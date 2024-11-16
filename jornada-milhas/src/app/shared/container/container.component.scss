@@ -1,6 +1,9 @@
-:host{
+:host{ // rodape
   display: block;
   margin: 0 auto;
   max-width: 1048px;
   width: 90%;
+  min-height: fit-content;
+  padding-bottom: 50px;
+  position: sticky;
 }
